@@ -1,0 +1,14 @@
+uuid: f7781fd1-7760-4ee9-a821-de99ab2c6260
+name: 'Manas labas lietas'
+mail: manas@lietas.lv
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
