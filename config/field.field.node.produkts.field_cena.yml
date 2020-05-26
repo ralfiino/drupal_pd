@@ -1,0 +1,23 @@
+uuid: 603d39f5-76c7-4db9-b99a-625913e9da88
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_cena
+    - node.type.produkts
+id: node.produkts.field_cena
+field_name: field_cena
+entity_type: node
+bundle: produkts
+label: Cena
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: decimal

@@ -1,0 +1,25 @@
+uuid: b2232dc0-8dc1-4b53-909b-a58bdb93c87f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_pieejamiba_noliktava
+    - node.type.produkts
+id: node.produkts.field_pieejamiba_noliktava
+field_name: field_pieejamiba_noliktava
+entity_type: node
+bundle: produkts
+label: 'Pieejamība noliktavā'
+description: ''
+required: true
+translatable: false
+default_value:
+  -
+    value: 10
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

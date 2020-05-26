@@ -1,0 +1,8 @@
+uuid: fcdd2803-00cf-478b-a927-dfc53aab323d
+langcode: en
+status: true
+dependencies: {  }
+name: 'Produktu katalogs'
+vid: produktu_katalogs
+description: ''
+weight: 0

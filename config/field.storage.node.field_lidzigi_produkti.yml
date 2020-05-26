@@ -1,0 +1,19 @@
+uuid: 44f3fa80-9ca6-494a-aa78-62ae9e56b419
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_lidzigi_produkti
+field_name: field_lidzigi_produkti
+entity_type: node
+type: entity_reference
+settings:
+  target_type: node
+module: core
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false
