@@ -1,0 +1,24 @@
+uuid: 8bbc0f11-a2ab-48ca-bcd2-0dc96bf084be
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.jaunumu_bloks
+  module:
+    - views
+  theme:
+    - prdarbs_theme
+id: prdarbs_theme_views_block__jaunumu_bloks_block_1
+theme: prdarbs_theme
+region: sidebar_first
+weight: 0
+provider: null
+plugin: 'views_block:jaunumu_bloks-block_1'
+settings:
+  id: 'views_block:jaunumu_bloks-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility: {  }
